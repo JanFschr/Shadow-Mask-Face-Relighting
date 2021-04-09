@@ -13,7 +13,7 @@ python test_relight_single_image.py input_image_path target_lighting_path output
 ```
 An example of this is provided below: 
 ```
-python test_relight_single_image.py sample_images/01503.png sample_lightings/light_left.txt sample_outputs/01503_left.png 7
+python test_relight_single_image.py sample_images/01503.png sample_lightings/light_left.txt sample_outputs/01503_left.png 0
 ```
 ## Citation 
 If you utilize our code in your work, please cite our CVPR 2021 paper. 
